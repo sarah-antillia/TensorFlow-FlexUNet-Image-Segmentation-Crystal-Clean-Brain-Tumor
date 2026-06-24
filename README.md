@@ -103,7 +103,6 @@ on the ground truth of the labels and their usability for their angle of researc
 <b>License:</b><br>
 <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0: Public Domain</a>
 <br><br>
-
 <h3>
 2 Crystal-Clean-Brain-Tumor ImageMask Dataset
 </h3>
