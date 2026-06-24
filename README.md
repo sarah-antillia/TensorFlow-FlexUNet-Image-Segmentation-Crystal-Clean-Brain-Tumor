@@ -19,9 +19,9 @@ As shown below, the inferred masks predicted by our segmentation model trained b
 <br><br>
 <table>
 <tr>
-<th>Input: image</th>
-<th>Mask (ground_truth)</th>
-<th>Prediction: inferred_mask</th>
+<th width="320" height="20">Input: image</th>
+<th width="320" height="20">Mask (ground_truth)</th>
+<th width="320" height="20">Prediction: inferred_mask</th>
 </tr>
 <tr>
 <td><img src="./projects/TensorFlowFlexUNet/Crystal-Clean-Brain-Tumor/mini_test/images/M_240_SP_.png" width="320" height="auto"></td>
@@ -111,7 +111,7 @@ on the ground truth of the labels and their usability for their angle of researc
 2.1 Download ImageMask Dataset
 </h3>
  If you would like to train this Crystal-Clean-Brain-Tumor Segmentation model by yourself,
-please down load our dataset <a href="https://drive.google.com/file/d/1VSlBczPJQi2K8TqHYsFoJgcTMy-HY5lc/view?usp=sharing">
+please download our dataset <a href="https://drive.google.com/file/d/1VSlBczPJQi2K8TqHYsFoJgcTMy-HY5lc/view?usp=sharing">
 <b>Crystal-Clean-Brain-Tumor-ImageMask-Dataset.zip</b>
 (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0: Public Domain</a>)
 </a> on the google drive,
